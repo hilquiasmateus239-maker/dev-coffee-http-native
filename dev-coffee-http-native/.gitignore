@@ -1,0 +1,13 @@
+# Dependências (não são utilizadas neste projeto)
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Configurações locais do VS Code
+.vscode/

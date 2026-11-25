@@ -1,0 +1,11 @@
+{
+  "name": "dev-coffee-http-native",
+  "version": "1.0.0",
+  "description": "API RESTful de pedidos construída com o módulo nativo HTTP do Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hilquias Mateus Vasconcelos Venancio",
+  "license": "ISC"
+}
